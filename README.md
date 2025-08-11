@@ -37,5 +37,5 @@ By cleaning anomalies and training classification algorithms, the model achieves
 1. Clone this repository:
    ```bash
    git clone https://github.com/rojadasappa/ml_introvert-extrovert-prediction.git
-   git clone https://github.com/rojadasappa/ml_introvert-extrovert-prediction.git
+
 
